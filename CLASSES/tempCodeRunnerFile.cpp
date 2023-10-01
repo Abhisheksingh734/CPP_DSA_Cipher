@@ -1,0 +1,1 @@
+head = reverse(head);

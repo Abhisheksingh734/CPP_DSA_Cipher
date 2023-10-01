@@ -1,0 +1,4 @@
+Hello world
+This file is opened in write mode
+Hello world 2
+This file is opened in appended mode
